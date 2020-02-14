@@ -1,0 +1,225 @@
+1581698561348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofilegTy1R3"
+1581698563457	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581698563677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581698563677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581698563678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581698563678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581698570513	Marionette	INFO	Listening on port 64239
+1581698570739	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17132, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 17132, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581698582078	Marionette	INFO	Stopped listening on port 64239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581699403511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofilexFqW5f"
+1581699405591	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581699405818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581699405819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581699405819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581699405820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581699412873	Marionette	INFO	Listening on port 64596
+1581699412948	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15416, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 15416, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581699455034	Marionette	INFO	Stopped listening on port 64596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1581699590051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofileyyzcio"
+1581699591980	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581699592205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581699592205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581699592206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581699592207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581699598689	Marionette	INFO	Listening on port 64782
+1581699598810	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2572, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 2572, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581699714317	Marionette	INFO	Stopped listening on port 64782
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581699769973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofile86lvrf"
+1581699771837	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581699772122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581699772122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581699772122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581699772123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581699778291	Marionette	INFO	Listening on port 64991
+1581699778738	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4244, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 4244, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581699800693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581699801309	Marionette	INFO	Stopped listening on port 64991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581700198520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofilemDARXw"
+1581700201370	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581700201638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581700201639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581700201640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581700201640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581700212005	Marionette	INFO	Listening on port 65285
+1581700212295	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2612, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 2612, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581700238147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581700433009	Marionette	INFO	Stopped listening on port 65285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581700288193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581700288193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581700288193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581700288194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581700296712	Marionette	INFO	Listening on port 65451
+1581700296847	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5272, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 5272, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581700320634	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581700323294	Marionette	INFO	Stopped listening on port 65451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581700764733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofilegiEUTT"
+1581700767680	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581700768259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581700768260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581700768260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581700768261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581700779911	Marionette	INFO	Listening on port 1205
+1581700780280	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10116, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 10116, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581700804295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581700807239	Marionette	INFO	Stopped listening on port 1205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581701321943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofileRweKWL"
+1581701324479	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581701324739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581701324740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581701324740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581701324740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1581701335729	Marionette	INFO	Listening on port 1434
+1581701335835	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4480, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 4480, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581701363545	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581701366151	Marionette	INFO	Stopped listening on port 1434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581702479186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofileKs0tne"
+*** You are running in headless mode.
+1581702481522	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581702481785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581702481785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581702481785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581702481786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581702486304	Marionette	INFO	Listening on port 1894
+1581702486359	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16836, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16836, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1581702735439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofile3LpHtJ"
+*** You are running in headless mode.
+1581702737438	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581702737677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581702737677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581702737677	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581702737678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581702741808	Marionette	INFO	Listening on port 2168
+1581702741994	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15916, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 15916, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1581702859274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\karla\\AppData\\Local\\Temp\\rust_mozprofileorOBFS"
+*** You are running in headless mode.
+1581702862672	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581702862966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581702862966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581702862966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581702862967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581702870053	Marionette	INFO	Listening on port 2380
+1581702870438	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15788, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 15788, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+1581702889768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581702894991	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/turner763610601596/moatad.js#moatClientLevel1=38723797&moatClientLevel2=215758237&moatClientLevel3=231761077&moatClientLevel4=138222761044&moatClientSlicer1=/8663477/NBA/stats&moatClientSlicer2=51405037&zMoatTEAM=&zMoatPS=bnr_atf_01&zMoatWD=728&zMoatHT=90&zMoatPG=&zMoatST=&zMoatAPP=&zMoatISAPP=&zMoatBUZ=&zMoatSOC=&zMoatMGV=&zMoatMMV=&zMoatMData=&zMoatMSafety=, line 248: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1581702905200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581702912647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581702920288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581702930660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1581702933062	Marionette	INFO	Stopped listening on port 2380
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5167: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
